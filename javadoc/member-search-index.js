@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"SkeletonTemplate.Skeleton","c":"Template","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"SkeletonTemplate.Skeleton","c":"Template","l":"rtn()"},{"p":"SkeletonTemplate.Skeleton","c":"Template","l":"str"},{"p":"SkeletonTemplate.Skeleton","c":"Template","l":"Template()","url":"%3Cinit%3E()"}]
