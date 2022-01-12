@@ -15,7 +15,7 @@ The first method to complete will be calculateSalary, which has a return type of
 
 This method returns a double which is the product of the hourly wage, a 40 hour week, and 50 weeks.
 
-Given that the parameter provided, hourlyWage, was 12.00. The double 240000.00 would be returned.
+Given that the parameter provided, hourlyWage, was 12.00. The double 24000.00 would be returned.
 
 When testing you can assign the returned value to a variable for use in the next method.
 
@@ -80,7 +80,7 @@ A method signature has the following format:
 
 [method name]: A method name is only used to indicate what a particular method does and we use this name to call the method in our program. The *camelCase* convention is typically followed for naming methods, so the first letter of the first word is not capitalized, and the following first letters are. Say if we had a method that printed the parameter given to it, a good name may be *printParameter*.
 
-(p1Type p1Name, ...): Parameters are variables given to the method that are required for it to function. The formatting is the variable type, followed by the name that will be used for the variable. You can use a comma inbetween multiple parameters if more than one is required. In the case that our method requires two variables, an **int** and a **String**, our parameter section would look as follows like (int number, String word).
+(p1Type p1Name, ...): Parameters are variables given to the method that are required for it to function. The formatting is the variable type, followed by the name that will be used for the variable. You must use a comma inbetween multiple parameters if more than one is required. In the case that our method requires two variables, an **int** and a **String**, our parameter section would look as follows like (int number, String word).
 
 return value: Whenever a return type other than **void** is specified, the method MUST return a value that corresponds to the return type. If you want a **void** method to terminate at a certain point, you can use **return** with no value after it.
 
