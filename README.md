@@ -1,12 +1,12 @@
-# Introduction
-This lab contains two files that you will modify, one of which contains our **main** function, MethodsObjects, and another that is an object that you will modify and implement within the **main**. 
+# Lab 02 - Methods and Objects
+## Introduction
+This lab contains two files that you will modify, one of which contains our `main` function, `MethodsObjects`, and another that is an object that you will modify and implement within the `main`. 
 
-This object is a "Pizza" object which holds a single variable, the radius of the pizza. This radius variable can be used in the methods that we create within our Pizza object.
+This object is a `Pizza` object which holds a single variable, the radius of the pizza. This radius variable can be used in the methods that we create within our `Pizza` object.
 
-For more information on Methods and Objects, there is background information included below the steps.
+For more information on `Methods` and `Objects`, there is background information included below the steps.
 
-
-The first two steps will be located within the first file **MethodsObjects**.
+The first two steps will be located within the first file `MethodsObjects`.
 
 After completing all of the following methods, in Step 7 you will be expected to test each of the methods, as well as those included within your Pizza object.
 
